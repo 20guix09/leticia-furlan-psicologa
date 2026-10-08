@@ -1,0 +1,6 @@
+Fotos atualizadas com a ferramenta integrada de edição de imagens e exportadas para WebP.
+Arquivos: assets/leticia-retrato-hd.webp, assets/leticia-brincar-hd.webp, assets/leticia-detalhe-hd.webp.
+A recuperação por IA pode reconstruir detalhes que não estavam nítidos na foto original.
+
+Prompt utilizado nas três fotos:
+Use case: identity-preserve. Edit target: the supplied photograph of Letícia, used in her professional psychologist website. Improve only image quality: careful photo restoration and super-resolution, reduce JPEG/compression artifacts, restore natural crispness of glasses, hair, fabric and eyes; subtle realistic detail, preserve real skin texture. Preserve EXACTLY the same real person's identity, face shape, facial features, expression, teeth, glasses, hair, clothing, pose, framing, aspect ratio, background and original colors. Do not beautify, change age, reshape, add makeup, smooth skin, change lighting mood, move any objects, crop, add text or watermark. This must remain the same photograph, simply clearer. Output one enhanced photograph at high resolution.
